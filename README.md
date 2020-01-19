@@ -1,8 +1,6 @@
 # Chronicle-Theophanes-Text
 
-A text mining algorithm that attempts to detect the names and locations present in the "Chronicle of Theophanes" text.
-The text is incredibly extensive, and feautures many names/locations that are either anachronistic, or no longer exist.
-As such, it would be near-impossible to read through thousands of lines and perfectly record each occurrence of name and place.  
+Here is a text mining algorithm that attempts to detect the names and locations present in the "Chronicle of Theophanes" text. The text is incredibly extensive, and feautures many names/locations that are either anachronistic, or no longer exist. As such, it would be near-impossible to read through thousands of lines and perfectly record each occurrence of name and place.  
 
 The algorithm is trained with a set of manually chosen "seeds" (these were picked at random from a list of pre-discovered entities from the text) but could realistically use any combination of names/locations from the corpus. 
 
